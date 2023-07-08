@@ -1,4 +1,8 @@
+// How to iterate objects
 // Types --
+// 1.for...in loop:
+// 2.Object.keys():
+// 3.Object.entries():
 
 /* The for...in loop iterates over the enumerable properties of
 an object, including its inherited properties. It allows you to access
@@ -12,8 +16,7 @@ loop or any array iteration method.*/
 of key-value pairs for each enumerable property of an object. You can use
 a for...of loop or other array iteration methods to access the key-value pairs.*/
 
-// How to iterate objects
-// 1.for...in loop:
+// 1.for...in loop: 
   
   const person = {
     name: 'John',
