@@ -26,6 +26,7 @@ class person{
     isSuperCute(){
         return this.age <= 1;
     }
+    
     isCute(){
         return true;
     }
