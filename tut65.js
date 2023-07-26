@@ -30,4 +30,5 @@ setTimeout(() =>{
     heading6.textContent =" Heading 6";
     heading6.style.color = "black";
     },5000)
+    
 } , 1000)
