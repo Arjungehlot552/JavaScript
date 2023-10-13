@@ -14,11 +14,11 @@
 
 // == vs === 
 let num3 = 40;
-let num4 = "40";
+let num4 = '40';
 console.log(num3 === num4);
 
 // != vs !== 
-console.log(num3 !== num4);
+// console.log(num3 != num4);
 
 
 

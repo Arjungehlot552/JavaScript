@@ -1,7 +1,7 @@
 // Ternary operator
 
-// let age = 8;
-// let drink;
+let age = 8;
+let drink;
 
 // if(age>=5){
 //     drink = "coffee";
